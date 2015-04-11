@@ -10,7 +10,7 @@ Columns:
 
   date - seconds since epoch of end of week that bucket is for
   total - total activity events
-  accept,badge,comment,post,review,revision,suggest - equivalent to profile pgae tabs.
+  accept,badge,comment,post,review,revision,suggest - equivalent to profile page tabs.
 
 Voting and flagging activity is not included, of course.
 
