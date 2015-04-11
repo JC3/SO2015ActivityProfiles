@@ -12,6 +12,8 @@ Columns:
   total - total activity events
   accept,badge,comment,post,review,revision,suggest - equivalent to profile pgae tabs.
 
+Voting and flagging activity is not included, of course.
+
 seactivity.db is an sqlite database containing candidate info and all activities for
 all candidates.
 
