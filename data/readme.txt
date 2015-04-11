@@ -14,6 +14,8 @@ Columns:
 
 Voting and flagging activity is not included, of course.
 
+SEDE query for non-review activity is here: http://bit.ly/1GWtJQ2
+
 seactivity.db is an sqlite database containing candidate info and all activities for
 all candidates.
 
