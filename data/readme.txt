@@ -1,10 +1,13 @@
-Last generated on 4/10/2015.
+Last generated on 12-Apr-2015.
 
-Activity since last data dump (4/6/2015) will be incorrect, as it contains only
+Activity since last data dump (06-Apr-2015) will be incorrect, as it contains only
 review activity (from scraped profiles) but not other activity (from sede).
 
-Each file is histogram in weekly bins, date range is earliest date of any activity
-by any nominee to now; so all files have same date range.
+Data for SO, MSO, MSE, and combined data for all three is included. Each subdirectory
+contains a set of CSV files.
+
+Each CSV file is histogram in weekly bins, date range is earliest date of any activity
+by any nominee to now (across all included sites); so all files have same date range.
 
 Columns:
 
@@ -12,9 +15,9 @@ Columns:
   total - total activity events
   accept,badge,comment,post,review,revision,suggest - equivalent to profile page tabs.
 
-Voting and flagging activity is not included, of course.
+Voting, flagging, activity on delete posts is not included, it is not available.
 
-SEDE query for non-review activity is here: http://bit.ly/1GWtJQ2
+SEDE query for non-review activity is here: http://bit.ly/1CJyLcV
 
 seactivity.db is an sqlite database containing candidate info and all activities for
 all candidates.
