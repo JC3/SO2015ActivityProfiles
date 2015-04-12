@@ -1,4 +1,4 @@
-Last generated on 12-Apr-2015.
+Last generated on 12-Apr-2015, 16:40 UTC.
 
 Activity since last data dump (06-Apr-2015) will be incorrect, as it contains only
 review activity (from scraped profiles) but not other activity (from sede).
