@@ -1,6 +1,6 @@
-Last generated on 13-Apr-2015, 04:00 UTC.
+Last generated on 13-Apr-2015, 14:45 UTC-5.
 
-Activity since last data dump (06-Apr-2015) will be incorrect, as it contains only
+Activity since last data dump (13-Apr-2015) will be incorrect, as it contains only
 review activity (from scraped profiles) but not other activity (from sede).
 
 Data for SO, MSO, MSE, and combined data for all three is included. Each subdirectory
